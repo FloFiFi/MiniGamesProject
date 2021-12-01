@@ -10,5 +10,5 @@ void main(void){
         printf("test %d", a);
     }
 
-    //commentaire du code
+    //ta gueule 
 }
